@@ -36,6 +36,7 @@
     background-image: url("sunset.jpg");
     background-size: cover;
     background-position: center 65%;
+    background-attachment: fixed;
    
     
 }
